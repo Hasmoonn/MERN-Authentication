@@ -1,0 +1,5 @@
+create server folder
+
+npm init -y
+
+npm i express dotenv nodemon cors mongoose jsonwebtoken bcryptjs nodemailer cookie-parser
